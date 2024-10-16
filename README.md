@@ -1,17 +1,5 @@
 # Cyber Fitness
 
-## Introduction
-
-This is a student group project done as a first big assigment, in wich join all the technologies learned at SoyHenry bootcamp.
-
-
-## Project Objetives
-
-- Build a JavaScript App from scratch
-- Afirm and conect all the learned concepts in the Carreer 
-- Learn and practice GIT workflow / team work
-- Use scrum agile methodology
-
 ## Stack of Technologies
 
 ### Front End:
